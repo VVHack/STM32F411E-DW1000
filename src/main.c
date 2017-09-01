@@ -16,7 +16,7 @@
  * PA1- IRQ
 */
 
-
+//rm -rf .git for removing git repository
 
 #include "stm32f4xx.h"
 #include "deca_led.h"
